@@ -1,7 +1,9 @@
 [package]
-name    = "snd"
-version = "0.0.0"
-authors = ["Casey Rodarmor <casey@rodarmor.com>"]
+name     = "snd"
+version  = "0.0.0"
+authors  = ["Casey Rodarmor <casey@rodarmor.com>"]
+license  = "CC0-1.0"
+homepage = "https://github.com/casey/just"
 
 [dependencies]
 cpal      = "0.8.1"
